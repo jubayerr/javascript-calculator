@@ -7,7 +7,7 @@
 body {
   padding: 0;
   margin: 0;
-  background: linear-gradient(to right, #00AAFF, #00FF6C);
+  background: linear-gradient(to right, #5b86e5, #36d1dc);
 }
 
 .calculator-grid {
@@ -45,6 +45,7 @@ body {
   padding: 10px;
   word-wrap: break-word;
   word-break: break-all;
+  border: 6px solid #00293d;
 }
 
 .output .previous-operand {
